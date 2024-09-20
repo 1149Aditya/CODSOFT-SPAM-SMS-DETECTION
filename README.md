@@ -18,7 +18,7 @@ The Spam SMS Detection project aims to develop an AI model that classifies SMS m
 
 ## Dataset
 
-The dataset used in this project consists of labeled SMS messages, where each message is categorized as either "spam" or "ham" (legitimate). The dataset can be found [here](link_to_dataset) (please provide the actual link). The messages include various types of content, providing a diverse set for model training and evaluation.
+The dataset used in this project consists of labeled SMS messages, where each message is categorized as either "spam" or "ham" (legitimate). The messages include various types of content, providing a diverse set for model training and evaluation.
 
 
 ## Methodology
