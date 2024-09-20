@@ -4,16 +4,6 @@
 
 The Spam SMS Detection project aims to develop an AI model that classifies SMS messages as either spam or legitimate (ham). With the growing prevalence of spam messages, an effective detection system is crucial for protecting users from unwanted communications. This project utilizes natural language processing (NLP) techniques and machine learning classifiers to accurately identify spam messages.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [How to Run](#how-to-run)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
 
 ## Technologies Used
 
